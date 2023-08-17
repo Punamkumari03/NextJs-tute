@@ -17,7 +17,7 @@ function DeveloperPage(){
       }
     return <div>
        <h1>User Details</h1> 
-       <p>id:{userDetail.id}</p>
+      
        <p>Name:{userDetail.name}</p>
        <p>Role:{userDetail.role}</p>
     </div>
